@@ -20,6 +20,14 @@ cd test_userbot/
 npm install
 ```
 
+Se invece si procede recuperandolo da repository è necessario eseguire:
+
+```bash
+git clone git@github.com:micheg/test_userbot.git
+cd test_userbot/
+npm install
+```
+
 ## Build e Deploy
 
 Ci sono due fasi, il build da ts a js e la copia dei file statici (anche se al momento ce ne è uno solo)
